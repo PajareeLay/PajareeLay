@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PajareeLay
-- 👀 I’m interested in AI and Machone Learning 
+- 👀 I’m interested in AI and Machine Learning 
 
 - 📫 How to reach me twitter and Facebook
 
